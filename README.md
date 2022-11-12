@@ -3,7 +3,6 @@
 <p>Permite criar e organizar tarefas que precisam ser realizadas ao longo do tempo, tarefas essas que não estão inseridas na nossa rotina e não podem ser esquecidas.</p>
 
 <img src="/src/assets/demo/tarefas.png"         alt="página tarefas">
-<img src="/src/assets/demo/instruções.png"      alt="página instruções">
 <img src="/src/assets/demo/notas.png"           alt="página notas">
 
 <p>Lembrando que antes de executar um projeto baixado do github é preciso instalar os módulos, que nesse caso são:</p>
