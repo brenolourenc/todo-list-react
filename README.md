@@ -1,6 +1,6 @@
-<h1>Controle Financeiro</h1>
+<h1>Todo-list</h1>
 
-<p>Permite criar e organizar tarefas que precisam ser realizadas ao longo do tempo, tarefas essas que não estão inseridas na nossa rotina e não podem ser esquecidas.</p>
+<p>Permite criar e organizar tarefas que precisam ser realizadas ao longo do tempo, tarefas essas que não estão inseridas na nossa rotina.</p>
 
 <img src="/src/assets/demo/tarefas.png"         alt="página tarefas">
 <img src="/src/assets/demo/notas.png"           alt="página notas">
