@@ -1,0 +1,38 @@
+.edit-guide,
+.delete-guide,
+.drag-drop-guide,
+.key-guide {
+    display: flex;
+        flex-flow: column;
+        align-items: flex-start;
+        justify-content: space-around;
+        gap: 5px;
+    padding: 10px 5px;
+    margin: 15px 0px;
+    width: 100%;
+    background: rgb(75, 75, 105);
+    border-radius: 5px;
+    box-shadow: 0px 3px 5px rgba(0, 0, 0, 40%);
+}
+.edit-guide h2,
+.delete-guide h2,
+.drag-drop-guide h2,
+.key-guide h2 {
+    width: 100%;
+    text-align: start;
+    margin-bottom: 15px;
+}
+.key-guide ul {
+    display: flex;
+        flex-flow: column;
+        align-items: flex-start;
+        gap: 2px;
+    margin: 5px 20px;
+}
+.edit-guide img,
+.delete-guide img,
+.drag-drop-guide img,
+.key-guide img {
+    height: 40%;
+    width: 40%;
+}

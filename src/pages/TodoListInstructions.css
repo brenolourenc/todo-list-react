@@ -1,0 +1,23 @@
+.instructions{
+    display: flex;
+        flex-flow: column;
+        align-items: center;
+        justify-content: center;
+    width: 100vw;
+}
+.instructions main {
+    height: 100%;
+    width: 75%;
+    display: flex;
+        flex-flow: column;
+        align-items: center;
+    padding: 0px 15px;
+    background: rgb(60, 60, 85);
+}
+.instructions main h1 {
+    background: linear-gradient(to right, rgb(100, 100, 125), rgb(100, 100, 125), rgb(60, 60, 85)) ;
+    padding: 10px 15px;
+    margin-top: 10px;
+    text-align: start;
+    width: 100%;
+}

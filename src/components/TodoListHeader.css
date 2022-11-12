@@ -1,0 +1,44 @@
+.header {
+    background: rgb(75, 100, 75);
+    width: 100vw;
+    height: 65px;
+    display: flex;
+        align-items: center;
+        justify-content: center;
+        box-shadow: 0px 3px 5px rgba(0, 0, 0, 40%);
+}
+.content {
+    display: flex;
+}
+ul {
+    display: flex;
+        gap: 10px;
+    width: fit-content;
+    margin: 0;
+    padding: 0;
+}
+a {
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.87);
+}
+.header-element {
+    display: flex;
+        align-items: center;
+    list-style: none;
+    padding: 5px 10px;
+    background: rgb(90, 130, 90);
+    border-radius: 5px;
+    height: 30px;
+    transition: .2s;
+    box-shadow: 0px 3px 5px rgba(0, 0, 0, 40%);
+}
+.instructionIco {
+    height: 25px;
+    width: 25px;
+}
+.header-element:hover {
+    background: rgba(126, 180, 126, 80%);
+}
+.config {
+    margin: 0px 10px;
+}

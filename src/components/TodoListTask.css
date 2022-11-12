@@ -1,0 +1,58 @@
+.todo-container {
+    width: 100vw;
+}
+.todo {
+    display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 5px;
+    margin-top: 10px;
+}
+.todo:active {
+    cursor: move;
+}
+.task {
+    background: rgb(70, 70, 95);
+    border-radius: 5px;
+    box-shadow: 0px 3px 5px rgba(0, 0, 0, 60%);
+}
+.task-info {
+    display: flex;
+        align-items: center;
+        gap: 5px;
+    height: fit-content;
+    width: fit-content;
+    padding: 15px 20px 5px;
+}
+.title-task {
+    cursor: text;
+    font-size: 17px;
+    min-height: 20px;
+    height: fit-content;
+    min-width: 20px;
+    max-width: 365px;
+    text-align: left;
+    margin: 0;
+    padding: 0;
+    word-break: break-word;
+    border: none;
+    color: rgb(230, 230, 230);
+}
+.complete-task {
+    cursor: text;
+    font-size: 17px;
+    min-height: 20px;
+    height: fit-content;
+    min-width: 20px;
+    max-width: 330px;
+    text-align: left;
+    margin: 0;
+    padding: 0;
+    word-break: break-word;
+    border: none;
+    color: rgb(182, 182, 182);
+    text-decoration: line-through;
+}
+input[type="checkbox"] {
+    cursor: pointer;
+}

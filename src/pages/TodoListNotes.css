@@ -1,0 +1,22 @@
+.container-notes {
+    width: 100vw;
+    display: flex;
+        flex-flow: column;
+        justify-content: center;
+        align-items: center;
+}
+.search-note {
+    margin: 10px 0px;
+    padding: 0px 5px;
+    border: none;
+    background: rgb(55, 80, 55);
+    border-radius: 5px;
+    height: 35px;
+    width: 450px;
+    font-size: 15px;
+    cursor: text;
+    box-shadow: 0px 3px 5px rgba(0, 0, 0, 60%);
+}
+.search-note::placeholder {
+    color: rgb(200, 225, 200);
+}
