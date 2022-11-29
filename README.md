@@ -5,11 +5,7 @@
 <img src="/src/assets/demo/tarefas.png"         alt="página tarefas">
 <img src="/src/assets/demo/notas.png"           alt="página notas">
 
-<p>Lembrando que antes de executar um projeto baixado do github é preciso instalar os módulos, que nesse caso são:</p>
-<ul>
-    <li>npm install</li>
-    <li>npm install react-router-dom@6 ou yarn add react-router-dom@6</li>
-</ul>
+<p>Lembrando que antes de executar um projeto baixado do github é preciso instalar os módulos(npm install)</p>
 
 <h2>Tecnologias utilizadas:</h2>
 <div style="display: inline_block">
