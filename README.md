@@ -13,5 +13,3 @@
   <img alt="Icone CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img alt="Icone React-router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
 </div>
-
-<h3>Projeto desenvolvido por <a href="https://github.com/breno05s">Breno Lourenço</a></h3>
